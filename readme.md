@@ -11,3 +11,9 @@
 npm run dev
 <!-- build -->
 npm run build
+
+
+
+
+ // opret filer ude i roden ligesom tasks / gulpfile.js her
+node index

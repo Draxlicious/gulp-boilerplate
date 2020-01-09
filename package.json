@@ -1,7 +1,7 @@
 {
-  "name": "gulp-intro/gulp-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@draxlicious/gulp-boilerplate",
+  "version": "0.1.0",
+  "description": "super simple boilerplate for Gulp",
   "main": "index.js",
   "scripts": {
     "dev": "gulp",
@@ -14,7 +14,8 @@
   },
   "bugs": "https://github.com/Draxlicious/gulp-boilerplate/issues",
   "homepage": "https://github.com/Draxlicious/gulp-boilerplate#readme",
-  "author": "",
+  "keywords": ["gulp", "sass", "pug", "imagemin", "babel", "boilerplate"],
+  "author": "Lukas Jakobsen <109243@rts-365.dk>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.7.7",

@@ -26,5 +26,6 @@
   "license": "ISC",
   "dependencies": {
     "mkdirp": "^0.5.1"
-  }
+  },
+  "public": "true"
 }

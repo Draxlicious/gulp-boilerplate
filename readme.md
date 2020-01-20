@@ -5,6 +5,9 @@
     ```
     npm i @gulp-intro/gulp-boilerplate
 
+    <!-- den rigtige -->
+    npm i @draxlicious/gulp-boilerplate
+
     ```
 
 <!-- start gulp -->

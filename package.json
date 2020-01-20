@@ -1,6 +1,6 @@
 {
   "name": "@draxlicious/gulp-boilerplate",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "super simple boilerplate for Gulp",
   "main": "index.js",
   "scripts": {

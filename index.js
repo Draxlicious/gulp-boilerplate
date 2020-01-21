@@ -54,10 +54,6 @@ exec("npm i -D @babel/core @babel/preset-env gulp gulp-babel gulp-clean-css gulp
     }
 
     console.log("installing npm packages. please wait..");
+    console.log(stdout);
     
-    // console.log(stdout);
-    stdout.on("data", function(data){
-        console.log(data.toString());
-        
-    })
 });

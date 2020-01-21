@@ -1,16 +1,18 @@
 
 # @gulp-intro/gulp-boilerplate
 
-    # Hent ned på ny mappe:
+    # Hent ned på ny opgave:
     ```
     npx @draxlicious/gulp-boilerplate
     
     ```
+    # publish til npm
+    npm version patch
+
+    npm publish
 
     ##installation
     ```
-    npm i @gulp-intro/gulp-boilerplate
-
     npm i @draxlicious/gulp-boilerplate
 
     ```
